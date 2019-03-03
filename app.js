@@ -17,7 +17,7 @@ var cookieParser = require('cookie-parser');
 var bodyParser = require('body-parser')
 
 var client_id = '8fc273ab9c6046aabb27a2a00c760ff5'; // Your client id
-var client_secret = '-----------------------------' // Your secret
+var client_secret = '----------------' // Your secret
 var redirect_uri = 'http://rpmusic.appspot.com/callback'; // Your redirect uri
 // var redirect_uri = 'http://localhost:8080/callback'; // Your redirect uri
 
