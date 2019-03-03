@@ -9,6 +9,7 @@ The new web app that uses Spotify's developer tools to create playlist customize
 you and enjoy! The new playlist is propagated directly into your spotify, so that you can return to specific paces whenever you feel
 like it.
 
+Visit the app here: http://rpmusic.appspot.com
 
 
 
