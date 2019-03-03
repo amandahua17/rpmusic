@@ -1,3 +1,23 @@
+# RPMusic
+Imagine this: You've just been in an unfortunate incident involving a sport and you're recovering slowly from the resulting injury. 
+You go to physical therapy and your PT tells you that to integrate back into a healthy state, your conditioning will be on a treadmill,
+at a very specific RPM. To ensure that you're using the proper pace, they make you install a metronome app on your phone. However, the 
+metronome app is slightly faulty, and when you switch to your music app (let's be real, it's Spotify) the metronome app will either stop
+working or change pace. Even if it stays steady, the beat of the music will throw you off. So what's the best solution?
+### Welcome to RPMusic!
+The new web app that uses Spotify's developer tools to create playlist customized to your pace! Just enter the RPM that your PT gives
+you and enjoy! The new playlist is propagated directly into your spotify, so that you can return to specific paces whenever you feel
+like it.
+
+
+
+
+
+
+
+
+
+# THE BELOW COMMENTS ARE FROM THE BASE CODE WE USED FROM SPOTIFY'S API EXAMPLES 
 # Spotify Accounts Authentication Examples
 
 This project contains basic demos showing the different OAuth 2.0 flows for [authenticating against the Spotify Web API](https://developer.spotify.com/web-api/authorization-guide/).
