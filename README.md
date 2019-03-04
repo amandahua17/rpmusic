@@ -9,6 +9,8 @@ The new web app that uses Spotify's developer tools to create playlist customize
 you and enjoy! The new playlist is propagated directly into your spotify, so that you can return to specific paces whenever you feel
 like it.
 
+Note: since we’re using Spotify’s developer API, they’re calculating the tempo of tracks to recommend, so a slower song might still correspond to a fast tempo if it hits the right beat. We’ve also determined that the tempo corresponding to a song is really an average, so a song that varies in tempo won’t be super accurate.
+
 Visit the app here: http://rpmusic.appspot.com
 
 
